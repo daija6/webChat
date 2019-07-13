@@ -1,1 +1,1 @@
-print("David is my friend")
+print("David is a super handsome boy")
