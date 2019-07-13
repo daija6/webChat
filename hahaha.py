@@ -1,1 +1,1 @@
-print("David fucked")
+print("David is a super handsome boy")
